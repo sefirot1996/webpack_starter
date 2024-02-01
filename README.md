@@ -1,5 +1,16 @@
 # Webpack configurado
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+este es la configuracion base para que funcione webpack con Js
 
-Pero esto lo veremos en la siguiente sección
+Para usar este repositorio, deberán ejecutar el comando de
+
+```
+npm install
+
+```
+
+para construit el build, se hace con:
+
+```
+npm run build
+```
