@@ -6,7 +6,6 @@ Para usar este repositorio, deberán ejecutar el comando de
 
 ```
 npm install
-
 ```
 
 para construit el build, se hace con:
